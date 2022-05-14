@@ -4,7 +4,7 @@ import keyboard
 import os
 
 
-nova_client = NovaClient('84d8c05f-67ae-442b-86c7-07d179acdc0b','2mISvoItHCHzwPt9PAiW4qkqIQw3P7Q7')
+nova_client = NovaClient('','')
 
 PercentGanho=float(0.15)
 PercentInvest=float(0.15)

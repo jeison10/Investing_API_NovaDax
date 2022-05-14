@@ -1,1 +1,6 @@
-# Investing_API_NovaDax
+# Investing_API_NovaDaxbit
+
+Bot para investimento em BitCoin com a corretora NovaDax.
+O sistema fica monitorando o ercado e, de acordo com as definições do usuário, realiza ordens de compra e venda automaticamente.
+
+Desenvolvido em Python
